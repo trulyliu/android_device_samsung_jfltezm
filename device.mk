@@ -18,7 +18,7 @@
 $(call inherit-product-if-exists, vendor/samsung/jfltezm/jfltezm-vendor.mk)
 
 ## device overlays
-
+DEVICE_PACKAGE_OVERLAYS += device/samsung/jfltezm/overlay
 ## common overlays
 DEVICE_PACKAGE_OVERLAYS += device/samsung/jf-common/overlay-gsm
 
