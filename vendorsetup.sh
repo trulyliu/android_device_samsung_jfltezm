@@ -1,2 +1,3 @@
-add_lunch_combo cm_jfltezm-eng
+add_lunch_combo omin_jfltezm-userdebug
+add_lunch_combo full_jfltezm-userdebug
 
